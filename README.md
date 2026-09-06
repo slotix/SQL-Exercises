@@ -82,6 +82,7 @@ Este repositório inclui um banco de dados **SQLite** pronto para consultas (`sq
 2. Abra em um cliente SQLite de sua preferência:
    - [DB Browser for SQLite](https://sqlitebrowser.org/dl/) (interface gráfica)
    - [SQLite Online](https://sqliteonline.com/) (no navegador, sem instalar nada)
+   - [DBConvert SQLite Viewer](https://streams.dbconvert.com/sqlite-viewer) (no navegador; o arquivo é lido localmente e não é enviado a nenhum servidor — somente leitura)
    - Ou use diretamente em qualquer linguagem que suporte SQLite.
 
 A descrição das tabelas e colunas está disponível no [Dicionário de Dados](referencias/dicionario_de_dados.md).
